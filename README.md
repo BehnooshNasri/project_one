@@ -5,19 +5,27 @@
 ## Description of the Project 
 
 This project talks about what are some factors that can affect enrollment and graduation from post-graduate programs Canada
-1. 
-2. 
-3. 
 
-THe analysis we're going to do is .. 
-1. 
-2.
-3. 
+1. Total Income;
+2. Gender;
+3. Geographic Location
+
+The analysis we're going to do is .. 
+
+1. Get data from StatCanada
+2. Cleaning the data and converting into dataframes
+3. Merge different data frames to start analyzing
+2. Analyze the data from different variables (income, gender, geographic location, etc.) to perform linear regression to find correlations
+3. Anaylze the final data and prepare the presentation
 
 The questions we're going to answer are: 
-1. 
-2. 
-3. 
+
+1. Does total income of a person/household affect going to post-grad school? 
+2. Does a person's gender has any effect on their enrollment/graduation? 
+3. Does a person's geographic location (if in Canada, which Province; if international, which country) have any effect on enrollment/graduation?
+4. What percentage of undergaduates apply to graduate school?
+5. Does tution fees affect enrollment?
+ 
 
 ## Members of the group
 
@@ -31,15 +39,16 @@ The members in this group are:
 
 ## Work breakdown strucutre
 
-- Member 1 will be 
-- Member 2 will be
-- Member 3 will be 
-- Member 4 will be 
-- Member 5 will be  
+- Sharvil 1 will be getting the datasets and clean up from statCan  - assist others
+- Amir 2 will be getting datasets and clean up from StatCan - assist others
+- Esi 3 will be getting the datasets and clean up from StatCan and analyzing and visualizing - assist others
+- Behnoosh 4 will be getting data and clean up from World Bank API and analyzing and visializing and preparing the powerpoint presentation and assist with API - assist others
+- Hamza 5 will be getting data and clean up from World Bank API and assisting with the presentation - assist others
 
 ## Datasets used: 
 
-1.  
+1.  https://www12.statcan.gc.ca/census-recensement/index-eng.cfm
+2.  World Bank API 
 
 ## Code snippets
 
