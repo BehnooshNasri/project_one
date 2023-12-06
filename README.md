@@ -10,6 +10,7 @@ This project talks about what are some factors that can affect enrollment and gr
 2. Gender;
 3. Geographic Location
 
+
 The analysis we're going to do is .. 
 
 1. Get data from StatCanada
@@ -25,6 +26,7 @@ The questions we're going to answer are:
 3. Does a person's geographic location (if in Canada, which Province; if international, which country) have any effect on enrollment/graduation?
 4. What percentage of undergaduates apply to graduate school?
 5. Does tution fees affect enrollment?
+6. Compared to other countries with similar population and gdp how is Canada faring?
  
 
 ## Members of the group
@@ -39,11 +41,11 @@ The members in this group are:
 
 ## Work breakdown strucutre
 
-- Sharvil 1 will be getting the datasets and clean up from statCan  - assist others
-- Amir 2 will be getting datasets and clean up from StatCan - assist others
-- Esi 3 will be getting the datasets and clean up from StatCan and analyzing and visualizing - assist others
-- Behnoosh 4 will be getting data and clean up from World Bank API and analyzing and visializing and preparing the powerpoint presentation and assist with API - assist others
-- Hamza 5 will be getting data and clean up from World Bank API and assisting with the presentation - assist others
+- Sharvil will be getting the datasets and clean up from statCan  - assist others
+- Amir will be getting datasets and clean up from StatCan - assist others
+- Esi will be getting the datasets and clean up from StatCan and analyzing and visualizing - assist others
+- Behnoosh will be getting data and clean up from World Bank API and analyzing and visializing and preparing the powerpoint presentation and assist with API - assist others
+- Hamza will be getting data and clean up from World Bank API and assisting with the presentation - assist others
 
 ## Datasets used: 
 
