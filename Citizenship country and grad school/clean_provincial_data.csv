@@ -1,4 +1,4 @@
-﻿CENSUS_YEAR,GEO_LEVEL,GEO_NAME,CHARACTERISTIC_NAME,C1_COUNT_TOTAL,C10_RATE_TOTAL
+﻿CENSUS_YEAR,GEO_LEVEL,PROVINCE,DEGREE,COUNT_TOTAL,RATE_TOTAL
 2021,Country,Canada,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",30335915,100
 2021,Country,Canada,"      Degree in medicine, dentistry, veterinary medicine or optometry",214105,0.7
 2021,Country,Canada,      Master's degree,1740605,5.7
