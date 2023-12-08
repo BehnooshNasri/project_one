@@ -41,11 +41,17 @@ The members in this group are:
 
 ## Work breakdown strucutre
 
-- Sharvil will be getting the datasets and clean up from statCan  - assist others
-- Amir will be getting datasets and clean up from StatCan - assist others
-- Esi will be getting the datasets and clean up from StatCan and analyzing and visualizing - assist others
-- Behnoosh will be getting data and clean up from World Bank API and analyzing and visializing and preparing the powerpoint presentation and assist with API - assist others
-- Hamza will be getting data and clean up from World Bank API and assisting with the presentation - assist others
+| Task     | Sub task   | Assigned to:   | Support:  |
+| ------------- |-------------| :-----:|  :-----:|
+| Prepare Data | Get datasets from StatCan | Amir, Sharvil | Esi |
+| " | Get data from API (REST API, World Bank API) | Behnoosh, Hamza | Amir |
+| " | Clean data & save csv files  | Amir, Sharvil      |  Esi |
+| Analysis | Run statistical analysis | Behnoosh, Esi   |    Amir, Hamza, Sharvil |
+| " | Create charts & graphs to show relationships | Behnoosh, Esi   |    Amir, Hamza, Sharvil |
+| " | Report on key findings & draw conclusions | Behnoosh, Esi   |    Amir, Hamza, Sharvil |
+| Presentation | Create powerpoint | Behnoosh, Esi, Hamza | Amir, Sharvil |
+| " | Class presentation | Behnoosh, Esi | Amir, Hamza, Sharvil |
+
 
 ## Datasets used: 
 
