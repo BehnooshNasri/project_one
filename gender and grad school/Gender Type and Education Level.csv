@@ -1,92 +1,53 @@
-Province/Territory,Description,Total,Male,Female,% of Provincial Population,Male %,Female %
-Newfoundland and Labrador,Total population,510550,250075,260475,100.0,100.0,100.0
-Newfoundland and Labrador,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",433960,211180,222775,100.0,100.0,100.0
-Newfoundland and Labrador,      Master's degree,17150,6990,10165,4.0,3.3,4.6
-Newfoundland and Labrador,      Earned doctorate,2610,1635,975,0.6,0.8,0.4
-Newfoundland and Labrador,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",267785,129445,138340,100.0,100.0,100.0
-Newfoundland and Labrador,      Master's degree,13875,5115,8765,5.2,4.0,6.3
-Newfoundland and Labrador,      Earned doctorate,1895,1105,785,0.7,0.9,0.6
-Prince Edward Island,Total population,154330,75385,78945,100.0,100.0,100.0
-Prince Edward Island,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",126895,61450,65445,100.0,100.0,100.0
-Prince Edward Island,      Master's degree,5930,2465,3465,4.7,4.0,5.3
-Prince Edward Island,      Earned doctorate,800,495,305,0.6,0.8,0.5
-Prince Edward Island,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",77465,37375,40090,100.0,100.0,100.0
-Prince Edward Island,      Master's degree,4685,1795,2890,6.0,4.8,7.2
-Prince Edward Island,      Earned doctorate,595,350,245,0.8,0.9,0.6
-Nova Scotia,Total population,969380,471730,497650,100.0,100.0,100.0
-Nova Scotia,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",819315,395805,423510,100.0,100.0,100.0
-Nova Scotia,      Master's degree,43285,17675,25610,5.3,4.5,6.0
-Nova Scotia,      Earned doctorate,6745,3985,2760,0.8,1.0,0.7
-Nova Scotia,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",507465,245005,262465,100.0,100.0,100.0
-Nova Scotia,      Master's degree,33605,12785,20825,6.6,5.2,7.9
-Nova Scotia,      Earned doctorate,4625,2475,2155,0.9,1.0,0.8
-New Brunswick,Total population,775610,381455,394155,100.0,100.0,100.0
-New Brunswick,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",648245,316950,331300,100.0,100.0,100.0
-New Brunswick,      Master's degree,23265,10540,12725,3.6,3.3,3.8
-New Brunswick,      Earned doctorate,3705,2260,1445,0.6,0.7,0.4
-New Brunswick,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",401005,196525,204475,100.0,100.0,100.0
-New Brunswick,      Master's degree,18170,7665,10505,4.5,3.9,5.1
-New Brunswick,      Earned doctorate,2595,1475,1115,0.6,0.8,0.5
-Quebec,Total population,8501835,4201960,4299870,100.0,100.0,100.0
-Quebec,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",6918730,3414515,3504210,100.0,100.0,100.0
-Quebec,      Master's degree,360795,174150,186645,5.2,5.1,5.3
-Quebec,      Earned doctorate,63270,36320,26955,0.9,1.1,0.8
-Quebec,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",4434525,2208760,2225765,100.0,100.0,100.0
-Quebec,      Master's degree,302065,140530,161530,6.8,6.4,7.3
-Quebec,      Earned doctorate,49500,26520,22985,1.1,1.2,1.0
-Ontario,Total population,14223945,6970855,7253085,100.0,100.0,100.0
-Ontario,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",11782820,5733360,6049460,100.0,100.0,100.0
-Ontario,      Master's degree,786440,377795,408640,6.7,6.6,6.8
-Ontario,      Earned doctorate,119125,71465,47655,1.0,1.2,0.8
-Ontario,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",7584645,3700540,3884105,100.0,100.0,100.0
-Ontario,      Master's degree,658060,305270,352785,8.7,8.2,9.1
-Ontario,      Earned doctorate,89470,49975,39490,1.2,1.4,1.0
-Manitoba,Total population,1342150,666490,675660,100.0,100.0,100.0
-Manitoba,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",1058415,522505,535905,100.0,100.0,100.0
-Manitoba,      Master's degree,39155,17765,21395,3.7,3.4,4.0
-Manitoba,      Earned doctorate,6460,3790,2670,0.6,0.7,0.5
-Manitoba,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",675695,335160,340535,100.0,100.0,100.0
-Manitoba,      Master's degree,32255,13895,18355,4.8,4.1,5.4
-Manitoba,      Earned doctorate,4665,2480,2180,0.7,0.7,0.6
-Saskatchewan,Total population,1132505,563120,569385,100.0,100.0,100.0
-Saskatchewan,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",882760,436515,446245,100.0,100.0,100.0
-Saskatchewan,      Master's degree,31315,14210,17105,3.5,3.3,3.8
-Saskatchewan,      Earned doctorate,5790,3535,2255,0.7,0.8,0.5
-Saskatchewan,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",566615,281370,285245,100.0,100.0,100.0
-Saskatchewan,      Master's degree,26715,11665,15045,4.7,4.1,5.3
-Saskatchewan,      Earned doctorate,4455,2570,1885,0.8,0.9,0.7
-Alberta,Total population,4262635,2127935,2134700,100.0,100.0,100.0
-Alberta,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",3375135,1675855,1699275,100.0,100.0,100.0
-Alberta,      Master's degree,164245,79220,85025,4.9,4.7,5.0
-Alberta,      Earned doctorate,27315,16385,10920,0.8,1.0,0.6
-Alberta,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",2298160,1141780,1156385,100.0,100.0,100.0
-Alberta,      Master's degree,139935,65290,74645,6.1,5.7,6.5
-Alberta,      Earned doctorate,21050,11880,9165,0.9,1.0,0.8
-British Columbia,Total population,5000880,2457515,2543365,100.0,100.0,100.0
-British Columbia,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",4200425,2048395,2152030,100.0,100.0,100.0
-British Columbia,      Master's degree,264145,121485,142660,6.3,5.9,6.6
-British Columbia,      Earned doctorate,43440,25700,17740,1.0,1.3,0.8
-British Columbia,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",2691860,1313260,1378600,100.0,100.0,100.0
-British Columbia,      Master's degree,212745,93655,119090,7.9,7.1,8.6
-British Columbia,      Earned doctorate,30275,16520,13755,1.1,1.3,1.0
-Yukon,Total population,40230,20100,20130,100.0,100.0,100.0
-Yukon,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",32775,16185,16590,100.0,100.0,100.0
-Yukon,      Master's degree,2415,925,1485,7.4,5.7,9.0
-Yukon,      Earned doctorate,245,135,110,0.7,0.8,0.7
-Yukon,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",22895,10950,11945,100.0,100.0,100.0
-Yukon,      Master's degree,2090,730,1360,9.1,6.7,11.4
-Yukon,      Earned doctorate,185,100,85,0.8,0.9,0.7
-Northwest Territories,Total population,41070,20840,20230,100.0,100.0,100.0
-Northwest Territories,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",31910,16125,15785,100.0,100.0,100.0
-Northwest Territories,      Master's degree,1750,715,1035,5.5,4.4,6.6
-Northwest Territories,      Earned doctorate,105,55,55,0.3,0.3,0.3
-Northwest Territories,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",23080,11575,11500,100.0,100.0,100.0
-Northwest Territories,      Master's degree,1565,610,955,6.8,5.3,8.3
-Northwest Territories,      Earned doctorate,95,55,40,0.4,0.5,0.3
-Nunavut,Total population,36855,18770,18090,100.0,100.0,100.0
-Nunavut,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",24535,12410,12125,100.0,100.0,100.0
-Nunavut,      Master's degree,715,310,405,2.9,2.5,3.3
-Nunavut,      Earned doctorate,50,25,25,0.2,0.2,0.2
-Nunavut,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data",17060,8590,8475,100.0,100.0,100.0
-Nunavut,      Master's degree,680,300,385,4.0,3.5,4.5
-Nunavut,      Earned doctorate,50,25,20,0.3,0.3,0.2
+Province/Territory,Description,Total,Male,Female
+Newfoundland and Labrador,Total population,510550,250075,260475
+Newfoundland and Labrador,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",433960,211180,222775
+Newfoundland and Labrador,      Master's degree,17150,6990,10165
+Newfoundland and Labrador,      Earned doctorate,2610,1635,975
+Prince Edward Island,Total population,154330,75385,78945
+Prince Edward Island,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",126895,61450,65445
+Prince Edward Island,      Master's degree,5930,2465,3465
+Prince Edward Island,      Earned doctorate,800,495,305
+Nova Scotia,Total population,969380,471730,497650
+Nova Scotia,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",819315,395805,423510
+Nova Scotia,      Master's degree,43285,17675,25610
+Nova Scotia,      Earned doctorate,6745,3985,2760
+New Brunswick,Total population,775610,381455,394155
+New Brunswick,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",648245,316950,331300
+New Brunswick,      Master's degree,23265,10540,12725
+New Brunswick,      Earned doctorate,3705,2260,1445
+Quebec,Total population,8501835,4201960,4299870
+Quebec,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",6918730,3414515,3504210
+Quebec,      Master's degree,360795,174150,186645
+Quebec,      Earned doctorate,63270,36320,26955
+Ontario,Total population,14223945,6970855,7253085
+Ontario,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",11782820,5733360,6049460
+Ontario,      Master's degree,786440,377795,408640
+Ontario,      Earned doctorate,119125,71465,47655
+Manitoba,Total population,1342150,666490,675660
+Manitoba,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",1058415,522505,535905
+Manitoba,      Master's degree,39155,17765,21395
+Manitoba,      Earned doctorate,6460,3790,2670
+Saskatchewan,Total population,1132505,563120,569385
+Saskatchewan,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",882760,436515,446245
+Saskatchewan,      Master's degree,31315,14210,17105
+Saskatchewan,      Earned doctorate,5790,3535,2255
+Alberta,Total population,4262635,2127935,2134700
+Alberta,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",3375135,1675855,1699275
+Alberta,      Master's degree,164245,79220,85025
+Alberta,      Earned doctorate,27315,16385,10920
+British Columbia,Total population,5000880,2457515,2543365
+British Columbia,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",4200425,2048395,2152030
+British Columbia,      Master's degree,264145,121485,142660
+British Columbia,      Earned doctorate,43440,25700,17740
+Yukon,Total population,40230,20100,20130
+Yukon,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",32775,16185,16590
+Yukon,      Master's degree,2415,925,1485
+Yukon,      Earned doctorate,245,135,110
+Northwest Territories,Total population,41070,20840,20230
+Northwest Territories,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",31910,16125,15785
+Northwest Territories,      Master's degree,1750,715,1035
+Northwest Territories,      Earned doctorate,105,55,55
+Nunavut,Total population,36855,18770,18090
+Nunavut,"Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data",24535,12410,12125
+Nunavut,      Master's degree,715,310,405
+Nunavut,      Earned doctorate,50,25,25
