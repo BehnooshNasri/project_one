@@ -8,7 +8,7 @@ This project talks about what are some factors that can affect enrollment and gr
 
 1. Total Income;
 2. Gender;
-3. Geographic Location
+3. Geographic Location 
 
 
 The analysis we're going to do is: 
@@ -24,9 +24,7 @@ The questions we're going to answer are:
 1. Does total income of a person/household affect going to post-grad school? 
 2. Does a person's gender has any effect on their enrollment/graduation? 
 3. Does a person's geographic location (if in Canada, which Province; if international, which country) have any effect on enrollment/graduation?
-4. What percentage of undergaduates apply to graduate school?
-5. Does tution fees affect enrollment?
-6. Compared to other countries with similar population and gdp how is Canada faring in education metrics (available data)?
+4. Compared to other countries with similar population and gdp how is Canada faring in education metrics (available data)?
 
 
 ## Members of the group
@@ -60,6 +58,7 @@ The members in this group are:
 3.  https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dt-td/Index-eng.cfm?LANG=E&SUB=98P1009&SR=0&RPP=10&SORT=releasedate 
 4.  World Bank API: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information
 5.  REST Countries API: https://restcountries.com/#about-this-project-important-information 
+6. World Development Indicators | DataBank: https://databank.worldbank.org/reports.aspx?source=2&country=CAN#  
 
 ## Code snippets
 
