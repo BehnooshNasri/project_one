@@ -23,10 +23,12 @@ The questions we're going to answer are:
 
 1. What is the correlation between household income and post-grad degrees in select provinces of Ontario, British Columbia, Alberta and Quebec?
 2. What is the difference graduation rates for the same select provices?
-3. What are the ratios between male and female graduates for post-grad studies in the select provinces?  
-4. What are the countries with most international students enrolled in post-grad studies in Canada? 
-5. Does a person's geographic location (if in Canada, which Province; if international, which country) have any effect on enrollment/graduation?
-6. 
+3. What are the ratios between male and female graduates for post-grad studies in the select provinces?
+4. which province has the highest number of post-grad graduates?   
+5. What are the countries with most international students enrolled in post-grad studies in Canada? 
+6. Using API, for abvialable data globally what are the post-grad statistics compared to the countries GDP? 
+7. Using API, for abvialable data globally what are the post-grad statistics compared to the countries population?
+ 
 
 
 
