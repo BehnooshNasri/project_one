@@ -21,10 +21,13 @@ The analysis we're going to do is:
 
 The questions we're going to answer are: 
 
-1. Does total income of a person/household affect going to post-grad school? 
-2. Does a person's gender has any effect on their enrollment/graduation? 
-3. Does a person's geographic location (if in Canada, which Province; if international, which country) have any effect on enrollment/graduation?
-4. Compared to other countries with similar population and gdp how is Canada faring in education metrics (available data)?
+1. What is the correlation between household income and post-grad degrees in select provinces of Ontario, British Columbia, Alberta and Quebec?
+2. What is the difference graduation rates for the same select provices?
+3. What are the ratios between male and female graduates for post-grad studies in the select provinces?  
+4. What are the countries with most international students enrolled in post-grad studies in Canada? 
+5. Does a person's geographic location (if in Canada, which Province; if international, which country) have any effect on enrollment/graduation?
+6. 
+
 
 
 ## Members of the group
