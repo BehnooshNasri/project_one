@@ -2,25 +2,25 @@
 ## Post-graduate Studies Enrollment and Graduation in Canada and Around the World 
 
 ## Installation and required packages
-1. geopandas (instalation may be required)
-2. fiona (instalation may be required)
+1. geopandas (installation may be required)
+2. fiona (installation may be required)
 3. pandas
 4. matplotlib
 5. os
  
 
 ## Description of the Project
-This project talks about what are some factors that can affect enrollment and graduation from post-graduate programs in Canada and around the world. 
+This project uncovers some key factors relating to enrollment in post-graduate programs in Canada and around the world. It draws from census data and the data from the World Bank to present an analysis of these factors in the year 2020, focusing on data from four(4) selected Provinces in Canada (Ontario, British Columbia, Alberta and Quebec). Some variables considered are total population and GDP, in conjuntion with the following factors: 
 
-Total Income;
-Gender;
-Geographic Location
+- Total Income
+- Gender
+- Geographic Location
 
 ### The analysis we're going to do is:
 
-1. Get data from different resources including StatCanada and Census
+1. Get data from different resources including StatCanada, Census, World Bank API, etc.
 2. Cleaning the data and converting into dataframes
-3. Merge different data frames to start analyzing
+3. Merge different data frames to facilitate analysis
 4. Analyze the data from different variables (income, gender, geographic location, etc.) to perform linear regression to find correlations
 5. Anaylze the final data and prepare the presentation
 
