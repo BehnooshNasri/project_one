@@ -26,12 +26,12 @@ Geographic Location
 
 ### The questions we're going to answer are:
 
-1. What is the distribution of household income and post-grad degrees in select provinces of Ontario, British Columbia, Alberta and Quebec?
+1. What is the distribution of household income and post-grad degrees in the select provinces of Ontario, British Columbia, Alberta and Quebec?
 2. What is the different graduation rates for the select provinces of Ontario, British Columbia, Alberta and Quebec? 
 3. What are the ratios between male and female graduates for post-grad studies in the select provinces of Ontario, British Columbia, Alberta and Quebec?
 4. What are the countries with most international students enrolled in post-grad studies in Canada?
-5. Using API, for abvialable data globally what are the post-grad statistics compared to the countries GDP?
-6. Using API, for abvialable data globally what are the post-grad statistics compared to the countries population?
+5. Using API, for avialable data globally, what are the post-grad statistics compared to the countries GDP?
+6. Using API, for avialable data globally, what are the post-grad statistics compared to the countries population?
 
 
 ## Members of the group
@@ -46,15 +46,26 @@ The members in this group are:
 
 ## Work breakdown strucutre
 
-Task	Sub task	Assigned to:	Support:
-Prepare Data	Get datasets from StatCan	Amir, Sharvil	Esi
-"	Get data from API (REST API, World Bank API)	Behnoosh, Hamza	Amir
-"	Clean data & save csv files	Amir, Sharvil	Esi
-Analysis	Run statistical analysis	Behnoosh, Esi	Amir, Hamza, Sharvil
-"	Create charts & graphs to show relationships	Behnoosh, Esi	Amir, Hamza, Sharvil
-"	Report on key findings & draw conclusions	Behnoosh, Esi	Amir, Hamza, Sharvil
-Presentation	Create powerpoint	Behnoosh, Esi, Hamza	Amir, Sharvil
-"	Class presentation	Behnoosh, Esi	Amir, Hamza, Sharvil
+| Task     | Sub task   | Assigned to:   | Support:  |
+| ------------- |-------------| :-----:|  :-----:|
+| GitHub Setup | Main GitHub Host | Behnoosh |  |
+|  | README file updates | Behnoosh, Esi | Amir, Hamza, Sharvil |
+| Prepare Data | Retrieve datasets from StatCan | Amir, Sharvil | Esi |
+| | Get data from APIs (REST Countries, World Bank) | Behnoosh, Hamza | Amir |
+| | Clean Countries Population & GDP API data & save as csv | Behnoosh  |  |
+| | Clean Income by Province data & save as csv  | Sharvil  |  |
+| | Clean Gender data & save as csv  | Sharvil  |  |
+| | Clean World Graduate data & save as csv  | Hamza  |  |
+| | Clean Census Income & Enrollment data & save as csv  | Amir |  |
+| | Clean Graduate data from Census Income & Enrollment data  | Esi |  |
+| Analysis | Analyze Gender & Graduate data and plot graphs | Behnoosh   |    Amir, Esi, Hamza, Sharvil |
+| | Analyze Country & Education data and plot graphs | Behnoosh   |    Amir, Esi, Hamza, Sharvil |
+| | Analyze Income & Graduate data and plot graphs  | Esi   |    Amir, Behnoosh, Hamza, Sharvil |
+| | Analyze Enrollment by Country data and plot graphs  | Sharvil   |    Amir, Behnoosh, Esi, Hamza |
+| | Analyze World Enrollment data and plot heat maps  | Amir  |    Esi, Behnoosh, Hamza, Sharvil |
+| Presentation | Set up Google Slides template | Esi |  |
+| | Update slides with output from analysis | Amir, Behnoosh, Esi, Hamza, Sharvil |  |
+| | Class presentation | Behnoosh, Esi | Amir, Hamza, Sharvil |
 
 ## Datasets used:
 
