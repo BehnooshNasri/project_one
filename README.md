@@ -1,4 +1,13 @@
 # Project One - Dream Team!
+## Post-graduate Studies Enrollment and Graduation in Canada and Around the World 
+
+## Installation and required packages
+1. geopandas (instalation may be required)
+2. fiona (instalation may be required)
+3. pandas
+4. matplotlib
+5. os
+ 
 
 ## Description of the Project
 This project talks about what are some factors that can affect enrollment and graduation from post-graduate programs in Canada and around the world. 
@@ -17,13 +26,12 @@ Geographic Location
 
 ### The questions we're going to answer are:
 
-1. What is the correlation between household income and post-grad degrees in select provinces of Ontario, British Columbia, Alberta and Quebec?
-2. What is the difference graduation rates for the same select provices?
-3. What are the ratios between male and female graduates for post-grad studies in the select provinces?
-4. which province has the highest number of post-grad graduates?
-5. What are the countries with most international students enrolled in post-grad studies in Canada?
-6. Using API, for abvialable data globally what are the post-grad statistics compared to the countries GDP?
-7. Using API, for abvialable data globally what are the post-grad statistics compared to the countries population?
+1. What is the distribution of household income and post-grad degrees in select provinces of Ontario, British Columbia, Alberta and Quebec?
+2. What is the different graduation rates for the select provinces of Ontario, British Columbia, Alberta and Quebec? 
+3. What are the ratios between male and female graduates for post-grad studies in the select provinces of Ontario, British Columbia, Alberta and Quebec?
+4. What are the countries with most international students enrolled in post-grad studies in Canada?
+5. Using API, for abvialable data globally what are the post-grad statistics compared to the countries GDP?
+6. Using API, for abvialable data globally what are the post-grad statistics compared to the countries population?
 
 
 ## Members of the group
@@ -58,6 +66,17 @@ Presentation	Create powerpoint	Behnoosh, Esi, Hamza	Amir, Sharvil
 6. World Development Indicators | DataBank: https://databank.worldbank.org/reports.aspx?source=2&country=CAN#
 
 ## Code snippets
+### creating the heat map for international students enrollment in post-grad studies in Canada for the year 2020
+
+`fig, ax = plt.subplots(1, 1, figsize=(15, 10))
+world.boundary.plot(ax=ax, linewidth=1)
+merged_summed_data.plot(column='VALUE', ax=ax, legend=True,
+                        legend_kwds={'label': "Number of Students"},
+                        cmap='OrRd', alpha=0.9)
+plt.title('Heatmap of International Students in Master\'s and Doctorate Programs in Canada by Country of Citizenship')
+plt.savefig('Outputs/Heatmap_OGvalues_plot.png')
+
+plt.show()`
 
 ## Analysis
 
