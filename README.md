@@ -89,6 +89,10 @@ plt.savefig('Outputs/Heatmap_OGvalues_plot.png')
 
 plt.show()`
 
+## Presentation Link
+
+https://docs.google.com/presentation/d/1exXvkFgQysOCtITeYdUIgrSGJmpNjzOTNgrfC6aVGf8/edit#slide=id.gd9c453428_0_16
+
 ## Analysis
 
 ### Behnoosh Analysis: 
@@ -112,7 +116,13 @@ plt.show()`
 2. Mozambique and Indonesia have recorded the lowest degree attainment.
 
 ### Esi Analysis: 
-1. 
+1. Income Analysis:
+The data shows that Ontario has the highest number of people earning within the high income brackets.
+However, when we find the per capita value (number of earners divided by the total population), we find that income is pretty uniform across all provinces - meaning that there isn't a wide economic gap.
+
+2. Graduation rates Analysis:
+Ontario has the highest total number of post grad students
+However, when we calculate the per capita value for total, we find that the gap is not very wide, with Ontario still in the lead, followed by British Columbia and Quebec. 
 
 ### Amir Analysis: 
 1. Looking at the count and per capita analysis of the international student data, we have found countries such as Iran, China and India to be among the highest both in per capita and pure count values.
