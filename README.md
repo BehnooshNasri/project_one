@@ -30,8 +30,8 @@ This project uncovers some key factors relating to enrollment in post-graduate p
 2. What is the different graduation rates for the select provinces of Ontario, British Columbia, Alberta and Quebec? 
 3. What are the ratios between male and female graduates for post-grad studies in the select provinces of Ontario, British Columbia, Alberta and Quebec?
 4. What are the countries with most international students enrolled in post-grad studies in Canada?
-5. Using API, for avialable data globally, what are the post-grad statistics compared to the countries GDP?
-6. Using API, for avialable data globally, what are the post-grad statistics compared to the countries population?
+5. Using API, for available data globally, what are the post-grad statistics compared to the countries GDP?
+6. Using API, for available data globally, what are the post-grad statistics compared to the countries population?
 
 
 ## Members of the group
@@ -91,4 +91,45 @@ plt.show()`
 
 ## Analysis
 
+### Behnoosh Analysis: 
+1.	For gender based analysis: 
+    a.	Ontario has the highest rate among the 4 for both female and male post grad students, Quebec is second, BC is third and Alberta is 4th. 
+    b.	For all 4 provinces: Female population of post-grad for Masters and total highest certificate or degree is higher but it is slightly smaller for earned doctorates.
+2.	For the world data based on GDP and Population: 
+    a.	Country with the highest number of Masters degrees: Poland
+    b.	Country with the highest number of Doctorate degrees: United States
+    c.	Country with the lowest number of Masters degrees: Mozambique
+    d.	Country with the lowest number of Doctorate degrees: Indonesia
+    e.	For GDP vs post-grad data: it is not a very high correlation but there seems to be appositive one that with the bigger GDP of the available countries, the higher number of graduates. 
+    f.	For population vs post grad data: three really isn’t a correlation for the data available for the countries. 
+    
+### Sharvil Analysis: 
+1. For Master's or equivalent enrollments, we can see that the strongest countries with international students are China and India when comparing the two years. India had a higher increase in students in the second year in the comparison. We can see a slight increase in China, France and Iran as well.
+2. For Doctoral or equivalent enrollments, China and Iran take the lead with the count of international students. Again, we can see an increase in students between the two. The number of students from Bangladesh also grew slightly while Egypt's dropped slightly.
+
+### Hamza Analysis:
+1. Poland and Estonia have outperformed globally in terms of the number of degrees achieved, considering both population and GDP.
+2. Mozambique and Indonesia have recorded the lowest degree attainment.
+
+### Esi Analysis: 
+1. 
+
+### Amir Analysis: 
+1. Looking at the count and per capita analysis of the international student data, we have found countries such as Iran, China and India to be among the highest both in per capita and pure count values.
+
 ## Limitations
+
+1.	For data collection: There is a limitation to World Bank API and I was unable to get the population of the countries from it so I had to use REST API. This resulted in a discrepancy in the name of some countries and as there wasn’t data in both, some countries were eliminated. 
+2.	The education data for countries around the world is not comprehensive and we only were able to analyze only a few countries. Initially our plan was to compare countries similar to Canada’s population and GDP to post-grad education rates. However due to the lack of data available, we couldn’t achieve this, so we had to change our question to just compare education rates to each available country’s population and GDP. 
+3.	The census data for male and female does not include people who do not identify as either gender. 
+4.	We only focused on 4 provinces to analyze our data.    
+5.	The main challenge was locating recent and reliable information, as many countries lacked data, especially for the year 2020.
+6.	Finding a suitable API for world data that has the information we need.
+7.	Adjusting our inquiries based on the insights gained from the data.
+8.  The census data does not contain unique identifiers for individuals in their dataset. This posed as a challenge when comparing multiple datasets from this source.
+9. Not enough data available to trace which income group is enrolling in post grad studies
+10. Not enough data to determine which grad students are living in Canada vs those studying online
+
+
+
+
